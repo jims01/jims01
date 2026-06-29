@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there 👋, I'm Adebayo Ajayi
 
-<!--
-**jims01/jims01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | CompTIA Data+ Certified
 
-Here are some ideas to get you started:
+I am a Data Analyst passionate about transforming raw data into actionable insights using SQL, Excel, Power BI, Tableau and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building dashboards, analysing datasets and solving business problems through data.
+
+---
+
+## 🛠 Technical Skills
+
+- SQL (SQL Server & MySQL)
+- Microsoft Excel
+- Power BI
+- Tableau
+- Python (Pandas, NumPy)
+- Data Cleaning
+- Data Visualisation
+- Dashboard Development
+
+---
+
+## 📂 Featured Projects
+
+📊 Global Layoffs Analysis
+
+📈 Sales Dashboard
+
+🗃 SQL Data Cleaning Project
+
+🐍 Python Data Analysis
+
+---
+
+## 🌐 Connect with Me
+
+💼 LinkedIn:
+https://linkedin.com/in/a-adebayoj
+
+📊 Tableau Public:
+[(Click here )](https://public.tableau.com/app/profile/adebayo.ajayi5142/vizzes)
+
+🏅 CompTIA Data+ (Verified)
+[Click Here](https://www.credly.com/users/adebayo-ajayi.b704864a)
+
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
