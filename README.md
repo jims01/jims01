@@ -4,7 +4,7 @@
 
 I am a Data Analyst passionate about transforming raw data into actionable insights using SQL, Excel, Power BI, Tableau and Python. I specialise in geospatial data science, and I'm increasingly building that work into automated, orchestrated data pipelines.
 
-I enjoy building dashboards, analysing datasets and solving business problems through data — and lately, automating that whole process end-to-end.
+I enjoy building dashboards, analysing datasets and solving business problems through data and lately, automating that whole process end-to-end.
 
 ---
 
